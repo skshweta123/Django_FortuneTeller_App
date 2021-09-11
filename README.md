@@ -1,0 +1,1 @@
+# Django_FortuneTeller_App
